@@ -1,2 +1,2 @@
 # stock-analysis
-Stock analysis analysis
+Stock analysis exercise
