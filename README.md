@@ -15,7 +15,7 @@ To make it easily readable, conditional formatting in the script that highlighte
 ![stock_analysis_2017](https://user-images.githubusercontent.com/74462990/133009723-5ccb78a7-13f3-42e5-a970-82d7f00589c5.PNG)
 
 
-###Refactored:
+### Refactored:
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/74462990/133010141-4d94806a-7f4f-44f2-8395-78c3873445a3.PNG)
 
 Summary
