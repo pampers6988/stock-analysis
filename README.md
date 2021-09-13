@@ -26,6 +26,6 @@ To make it easily readable, conditional formatting in the script that highlighte
 
 
 
-Summary
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+## Summary
+The advantage of refactoring the VBA script is that it is more efficient and runs faster
+
